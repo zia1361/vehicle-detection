@@ -64,5 +64,5 @@ this weight is the result of 128 epoch train on the following dataset.
 
 ## My Vehicle Dataset
 ```
-https://tinyurl.com/3tsuk8pp
+https://drive.google.com/folderview?id=1r13XKYEzbx21ivAOe3nqExXdSzXc3XM_
 ```
